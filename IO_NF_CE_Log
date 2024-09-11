@@ -1,0 +1,916 @@
+gc enabled
+gc disabled
+
+previous month high:22297.5
+
+previous month low:21530.2
+
+previous month close:21982.8
+
+current month pivot:21936.83
+
+current month r1 :22343
+
+current month r2 :22704
+
+current month r3 :23471
+
+current month s1 :21576
+
+current month s2 :21170
+
+current month s3 :20403
+
+                                               date      open      high       low     close  volume
+date                                                                                               
+2024-03-07 09:15:00+05:30 2024-03-07 09:15:00+05:30  22505.30  22523.65  22473.40  22482.85       0
+2024-03-07 09:30:00+05:30 2024-03-07 09:30:00+05:30  22482.90  22495.80  22449.30  22473.35       0
+2024-03-07 09:45:00+05:30 2024-03-07 09:45:00+05:30  22472.95  22484.70  22451.15  22471.85       0
+2024-03-07 10:00:00+05:30 2024-03-07 10:00:00+05:30  22472.25  22502.60  22466.40  22486.95       0
+2024-03-07 10:15:00+05:30 2024-03-07 10:15:00+05:30  22486.95  22495.10  22469.40  22483.10       0
+2024-03-07 10:30:00+05:30 2024-03-07 10:30:00+05:30  22483.60  22490.55  22439.20  22443.80       0
+2024-03-07 10:45:00+05:30 2024-03-07 10:45:00+05:30  22442.35  22467.75  22430.00  22459.75       0
+2024-03-07 11:00:00+05:30 2024-03-07 11:00:00+05:30  22460.00  22521.30  22450.85  22498.65       0
+2024-03-07 11:15:00+05:30 2024-03-07 11:15:00+05:30  22498.00  22501.85  22490.40  22495.00       0
+2024-03-07 11:30:00+05:30 2024-03-07 11:30:00+05:30  22495.45  22508.15  22470.05  22480.75       0
+2024-03-07 11:45:00+05:30 2024-03-07 11:45:00+05:30  22481.60  22496.60  22478.55  22490.20       0
+2024-03-07 12:00:00+05:30 2024-03-07 12:00:00+05:30  22490.30  22495.50  22482.90  22486.60       0
+2024-03-07 12:15:00+05:30 2024-03-07 12:15:00+05:30  22487.25  22495.35  22474.45  22479.70       0
+2024-03-07 12:30:00+05:30 2024-03-07 12:30:00+05:30  22478.20  22498.50  22472.60  22496.35       0
+2024-03-07 12:45:00+05:30 2024-03-07 12:45:00+05:30  22496.00  22504.10  22490.80  22500.85       0
+2024-03-07 13:00:00+05:30 2024-03-07 13:00:00+05:30  22501.55  22517.65  22497.30  22509.15       0
+2024-03-07 13:15:00+05:30 2024-03-07 13:15:00+05:30  22507.80  22515.05  22491.30  22501.90       0
+2024-03-07 13:30:00+05:30 2024-03-07 13:30:00+05:30  22501.80  22514.95  22500.65  22509.55       0
+2024-03-07 13:45:00+05:30 2024-03-07 13:45:00+05:30  22509.75  22525.65  22501.30  22513.10       0
+2024-03-07 14:00:00+05:30 2024-03-07 14:00:00+05:30  22514.35  22516.50  22485.05  22499.20       0
+2024-03-07 14:15:00+05:30 2024-03-07 14:15:00+05:30  22498.85  22517.75  22493.85  22516.00       0
+2024-03-07 14:30:00+05:30 2024-03-07 14:30:00+05:30  22516.45  22522.05  22482.85  22487.45       0
+2024-03-07 14:45:00+05:30 2024-03-07 14:45:00+05:30  22486.65  22503.55  22483.95  22500.85       0
+2024-03-07 15:00:00+05:30 2024-03-07 15:00:00+05:30  22500.70  22517.20  22475.70  22500.75       0
+2024-03-07 15:15:00+05:30 2024-03-07 15:15:00+05:30  22501.10  22504.90  22464.50  22483.50       0
+15:15 candle
+pdh : 22525.65
+pdl : 22430.0
+pdc : 22483.5
+
+current day tc:22481.61
+
+current day pivot:22479.72
+
+current day bc:22477.83
+
+Five min pivot:22479.72
+
+Five min r1 :22529
+
+Five min r2 :22575
+
+Five min r3 :22671
+
+Five min s1 :22434
+
+Five min s2 :22384
+
+Five min s3 :22288
+
+first_thread True
+time_min 06
+timer started with 540 seconds
+first_time True
+last_candle_time:0 current_candle_time:0915
+last_candle_time:0915 current_candle_time:0945
+last_candle_time:0945 current_candle_time:1015
+last_candle_time:1015 current_candle_time:1045
+last_candle_time:1045 current_candle_time:1115
+last_candle_time:1115 current_candle_time:1145
+last_candle_time:1145 current_candle_time:1215
+last_candle_time:1215 current_candle_time:1245
+last_candle_time:1245 current_candle_time:1315
+last_candle_time:1315 current_candle_time:1345
+last_candle_time:1345 current_candle_time:1415
+last_candle_time:1415 current_candle_time:1445
+last_candle_time:1445 current_candle_time:1515
+last_candle_time:1515 current_candle_time:0915
+last_candle_time:0915 current_candle_time:0945
+last_candle_time:0945 current_candle_time:1015
+last_candle_time:1015 current_candle_time:1045
+last_candle_time:1045 current_candle_time:1115
+last_candle_time:1115 current_candle_time:1145
+last_candle_time:1145 current_candle_time:1215
+last_candle_time:1215 current_candle_time:1245
+last_candle_time:1245 current_candle_time:1315
+last_candle_time:1315 current_candle_time:1345
+last_candle_time:1345 current_candle_time:1415
+last_candle_time:1415 current_candle_time:1445
+last_candle_time:1445 current_candle_time:1515
+last_candle_time:1515 current_candle_time:0915
+last_candle_time:0915 current_candle_time:0945
+last_candle_time:0945 current_candle_time:1015
+last_candle_time:1015 current_candle_time:1045
+last_candle_time:1045 current_candle_time:1115
+last_candle_time:1115 current_candle_time:1145
+last_candle_time:1145 current_candle_time:1215
+last_candle_time:1215 current_candle_time:1245
+last_candle_time:1245 current_candle_time:1315
+last_candle_time:1315 current_candle_time:1345
+last_candle_time:1345 current_candle_time:1415
+last_candle_time:1415 current_candle_time:1445
+last_candle_time:1445 current_candle_time:1515
+last_candle_time:1515 current_candle_time:0915
+last_candle_time:0915 current_candle_time:0945
+last_candle_time:0945 current_candle_time:1115
+last_candle_time:1115 current_candle_time:1145
+last_candle_time:1145 current_candle_time:1215
+last_candle_time:1215 current_candle_time:0915
+last_candle_time:0915 current_candle_time:0945
+last_candle_time:0945 current_candle_time:1015
+last_candle_time:1015 current_candle_time:1045
+last_candle_time:1045 current_candle_time:1115
+last_candle_time:1115 current_candle_time:1145
+last_candle_time:1145 current_candle_time:1215
+last_candle_time:1215 current_candle_time:1245
+last_candle_time:1245 current_candle_time:1315
+last_candle_time:1315 current_candle_time:1345
+last_candle_time:1345 current_candle_time:1415
+last_candle_time:1415 current_candle_time:1445
+last_candle_time:1445 current_candle_time:1515
+last_candle_time:1515 current_candle_time:0915
+last_candle_time:0915 current_candle_time:0945
+last_candle_time:0945 current_candle_time:1015
+last_candle_time:1015 current_candle_time:1045
+last_candle_time:1045 current_candle_time:1115
+last_candle_time:1115 current_candle_time:1145
+last_candle_time:1145 current_candle_time:1215
+last_candle_time:1215 current_candle_time:1245
+last_candle_time:1245 current_candle_time:1315
+last_candle_time:1315 current_candle_time:1345
+last_candle_time:1345 current_candle_time:1415
+last_candle_time:1415 current_candle_time:1445
+last_candle_time:1445 current_candle_time:1515
+last_candle_time:1515 current_candle_time:0915
+last_candle_time:0915 current_candle_time:0945
+last_candle_time:0945 current_candle_time:1015
+last_candle_time:1015 current_candle_time:1045
+last_candle_time:1045 current_candle_time:1115
+last_candle_time:1115 current_candle_time:1145
+last_candle_time:1145 current_candle_time:1215
+last_candle_time:1215 current_candle_time:1245
+last_candle_time:1245 current_candle_time:1315
+last_candle_time:1315 current_candle_time:1345
+last_candle_time:1345 current_candle_time:1415
+last_candle_time:1415 current_candle_time:1445
+last_candle_time:1445 current_candle_time:1515
+last_candle_time:1515 current_candle_time:0915
+last_candle_time:0915 current_candle_time:0945
+last_candle_time:0945 current_candle_time:1015
+last_candle_time:1015 current_candle_time:1045
+last_candle_time:1045 current_candle_time:1115
+last_candle_time:1115 current_candle_time:1145
+last_candle_time:1145 current_candle_time:1215
+last_candle_time:1215 current_candle_time:1245
+last_candle_time:1245 current_candle_time:1315
+last_candle_time:1315 current_candle_time:1345
+last_candle_time:1345 current_candle_time:1415
+last_candle_time:1415 current_candle_time:1445
+last_candle_time:1445 current_candle_time:1515
+large_tf_current {'date': '2024-02-28', 'time': '0915', 'high': '22226.3', 'low': '22184.35', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '0945', 'high': '22229.15', 'low': '22168.2', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1015', 'high': '22226.3', 'low': '22190.35', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1045', 'high': '22201.35', 'low': '22021.15', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1115', 'high': '22088.2', 'low': '22020.0', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1145', 'high': '22043.95', 'low': '22001.3', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1215', 'high': '22054.65', 'low': '22026.9', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1245', 'high': '22054.05', 'low': '21938.9', 'resistance': False, 'support': True}
+large_tf_current {'date': '2024-02-28', 'time': '1315', 'high': '22033.7', 'low': '21943.7', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1345', 'high': '22050.25', 'low': '21993.15', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1415', 'high': '22046.3', 'low': '21966.25', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1445', 'high': '22013.15', 'low': '21945.8', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-28', 'time': '1515', 'high': '21953.6', 'low': '21915.85', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '0915', 'high': '21992.45', 'low': '21887.1', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '0945', 'high': '22022.4', 'low': '21866.15', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '1015', 'high': '21922.0', 'low': '21860.65', 'resistance': False, 'support': True}
+large_tf_current {'date': '2024-02-29', 'time': '1045', 'high': '21971.55', 'low': '21882.3', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '1115', 'high': '21996.6', 'low': '21923.0', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '1145', 'high': '21976.5', 'low': '21939.3', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '1215', 'high': '21965.3', 'low': '21897.15', 'resistance': False, 'support': True}
+large_tf_current {'date': '2024-02-29', 'time': '1245', 'high': '21974.25', 'low': '21939.35', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '1315', 'high': '21988.75', 'low': '21936.35', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '1345', 'high': '21986.1', 'low': '21937.7', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '1415', 'high': '21983.45', 'low': '21900.5', 'resistance': False, 'support': True}
+large_tf_current {'date': '2024-02-29', 'time': '1445', 'high': '22004.25', 'low': '21911.9', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-02-29', 'time': '1515', 'high': '22060.55', 'low': '21995.7', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '0915', 'high': '22167.65', 'low': '22047.75', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '0945', 'high': '22201.1', 'low': '22145.2', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1015', 'high': '22210.7', 'low': '22174.7', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1045', 'high': '22222.35', 'low': '22172.45', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1115', 'high': '22295.5', 'low': '22208.6', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1145', 'high': '22304.0', 'low': '22268.2', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1215', 'high': '22312.65', 'low': '22277.3', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1245', 'high': '22318.65', 'low': '22281.4', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1315', 'high': '22319.3', 'low': '22282.8', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1345', 'high': '22335.95', 'low': '22310.6', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1415', 'high': '22339.4', 'low': '22315.65', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1445', 'high': '22353.3', 'low': '22326.65', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-01', 'time': '1515', 'high': '22343.3', 'low': '22319.65', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-02', 'time': '0915', 'high': '22420.25', 'low': '22366.95', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-03-02', 'time': '0945', 'high': '22412.45', 'low': '22388.5', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-02', 'time': '1115', 'high': '22410.35', 'low': '22387.35', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-02', 'time': '1145', 'high': '22400.85', 'low': '22373.2', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-02', 'time': '1215', 'high': '22382.65', 'low': '22372.2', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '0915', 'high': '22440.9', 'low': '22361.8', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '0945', 'high': '22408.0', 'low': '22358.3', 'resistance': False, 'support': True}
+large_tf_current {'date': '2024-03-04', 'time': '1015', 'high': '22432.9', 'low': '22395.0', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1045', 'high': '22425.4', 'low': '22372.85', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1115', 'high': '22418.8', 'low': '22385.9', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1145', 'high': '22423.9', 'low': '22389.95', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1215', 'high': '22426.6', 'low': '22397.55', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1245', 'high': '22415.15', 'low': '22372.75', 'resistance': False, 'support': True}
+large_tf_current {'date': '2024-03-04', 'time': '1315', 'high': '22414.8', 'low': '22399.25', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1345', 'high': '22430.7', 'low': '22384.25', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1415', 'high': '22434.25', 'low': '22396.3', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1445', 'high': '22427.25', 'low': '22403.05', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-04', 'time': '1515', 'high': '22414.8', 'low': '22383.5', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '0915', 'high': '22406.55', 'low': '22319.55', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '0945', 'high': '22374.35', 'low': '22324.7', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1015', 'high': '22332.35', 'low': '22278.65', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1045', 'high': '22315.9', 'low': '22285.15', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1115', 'high': '22328.45', 'low': '22269.15', 'resistance': False, 'support': True}
+large_tf_current {'date': '2024-03-05', 'time': '1145', 'high': '22352.9', 'low': '22317.35', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1215', 'high': '22342.4', 'low': '22311.55', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1245', 'high': '22416.9', 'low': '22327.9', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1315', 'high': '22406.7', 'low': '22376.5', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1345', 'high': '22388.05', 'low': '22340.0', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1415', 'high': '22384.05', 'low': '22346.3', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1445', 'high': '22382.1', 'low': '22341.95', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-05', 'time': '1515', 'high': '22362.6', 'low': '22340.6', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '0915', 'high': '22365.85', 'low': '22289.4', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '0945', 'high': '22369.45', 'low': '22250.2', 'resistance': True, 'support': True}
+large_tf_current {'date': '2024-03-06', 'time': '1015', 'high': '22352.8', 'low': '22274.55', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1045', 'high': '22311.7', 'low': '22262.7', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1115', 'high': '22302.2', 'low': '22226.15', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1145', 'high': '22266.75', 'low': '22224.35', 'resistance': False, 'support': True}
+large_tf_current {'date': '2024-03-06', 'time': '1215', 'high': '22301.25', 'low': '22236.35', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1245', 'high': '22300.1', 'low': '22262.65', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1315', 'high': '22338.05', 'low': '22273.35', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1345', 'high': '22412.75', 'low': '22327.4', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1415', 'high': '22473.45', 'low': '22392.15', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1445', 'high': '22483.05', 'low': '22430.65', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-06', 'time': '1515', 'high': '22497.2', 'low': '22466.75', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '0915', 'high': '22523.65', 'low': '22449.3', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '0945', 'high': '22502.6', 'low': '22451.15', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1015', 'high': '22495.1', 'low': '22439.2', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1045', 'high': '22521.3', 'low': '22430.0', 'resistance': True, 'support': True}
+large_tf_current {'date': '2024-03-07', 'time': '1115', 'high': '22508.15', 'low': '22470.05', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1145', 'high': '22496.6', 'low': '22478.55', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1215', 'high': '22498.5', 'low': '22472.6', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1245', 'high': '22517.65', 'low': '22490.8', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1315', 'high': '22515.05', 'low': '22491.3', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1345', 'high': '22525.65', 'low': '22485.05', 'resistance': True, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1415', 'high': '22522.05', 'low': '22482.85', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1445', 'high': '22517.2', 'low': '22475.7', 'resistance': False, 'support': False}
+large_tf_current {'date': '2024-03-07', 'time': '1515', 'high': '22504.9', 'low': '22464.5', 'resistance': False, 'support': False}
+getStrickPrice() called
+script name []
+Start Threading Timer for mainTask
+
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1506
+Setting TaDelta to Zero
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1507
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1509
+Inside mainTask
+single trade flag 0
+Start Threading Timer for FiveMinTf20Ema
+
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1510
+Starting second window from __main__
+Second window is opened
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1510
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1511
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1512
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1513
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1514
+first_thread False
+timer started with 1800 seconds
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+ce entered from entry button
+acquired lock in entry
+Paper Trade
+opt_ce_entry_timestamp : 2024-03-09 15:15:55
+opt_ce_entry_avg_price : 153.6
+opt_ce_entry_qty_sum : 650
+opt_ce_entry_trade_symbol : NIFTY2431422450CE
+appended script_name
+setting single_trade_flag
+single trade flag file is set
+single trade flag is set
+released lock in entry
+In ce script name ['NIFTY 50']
+in getStrikeprice second block
+opt_ce_entry_avg_price : 153.6 
+
+opt_current_amount : 99840.0 		 opt_ce_entry_amount : 99840.0
+
+
+index_ltp : 22493.55
+I am inside OptMode
+I am inside IndexMode
+RRB: IndexSLReset True
+traded_index_points : 22493.55 			index_ltp : 22493.55
+IndexStopLoss_points : 22481.55 		IndexTarget_points : 22533.55
+loss_points : 0.0
+
+
+buy_price : 153.6 		 current_price : 153.6 		 stoploss_price : 145.92 		 profit : 0.0
+stoploss_perc : -5% 		 profit_perc : 0.0%
+target : 199.68 		 target_perc : 30%
+
+
+secondwindow_enable = False from getStrikePrice
+thirdwindow_enable = True from getStrikePrice
+In second window destroy
+In second window destroy
+Starting third window from __main__
+Third window is opened
+Inside mainTask
+single trade flag 3
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1515
+in getStrikeprice second block
+opt_ce_entry_avg_price : 153.6 
+
+opt_current_amount : 99840.0 		 opt_ce_entry_amount : 99840.0
+
+
+index_ltp : 22493.55
+I am inside OptMode
+I am inside IndexMode
+RRB: IndexSLReset True
+traded_index_points : 22493.55 			index_ltp : 22493.55
+IndexStopLoss_points : 22481.55 		IndexTarget_points : 22533.55
+loss_points : 0.0
+
+
+buy_price : 153.6 		 current_price : 153.6 		 stoploss_price : 145.92 		 profit : 0.0
+stoploss_perc : -5% 		 profit_perc : 0.0%
+target : 199.68 		 target_perc : 30%
+
+
+secondwindow_enable = False from getStrikePrice
+thirdwindow_enable = True from getStrikePrice
+In FiveMinTf20Ema, idle_state :0
+in getStrikeprice second block
+opt_ce_entry_avg_price : 153.6 
+
+opt_current_amount : 99840.0 		 opt_ce_entry_amount : 99840.0
+
+
+index_ltp : 22493.55
+I am inside OptMode
+I am inside IndexMode
+RRB: IndexSLReset True
+traded_index_points : 22493.55 			index_ltp : 22493.55
+IndexStopLoss_points : 22481.55 		IndexTarget_points : 22533.55
+loss_points : 0.0
+
+
+buy_price : 153.6 		 current_price : 153.6 		 stoploss_price : 145.92 		 profit : 0.0
+stoploss_perc : -5% 		 profit_perc : 0.0%
+target : 199.68 		 target_perc : 30%
+
+
+secondwindow_enable = False from getStrikePrice
+thirdwindow_enable = True from getStrikePrice
+in getStrikeprice second block
+opt_ce_entry_avg_price : 153.6 
+
+opt_current_amount : 99840.0 		 opt_ce_entry_amount : 99840.0
+
+
+index_ltp : 22493.55
+I am inside OptMode
+I am inside IndexMode
+RRB: IndexSLReset True
+traded_index_points : 22493.55 			index_ltp : 22493.55
+IndexStopLoss_points : 22481.55 		IndexTarget_points : 22533.55
+loss_points : 0.0
+
+
+buy_price : 153.6 		 current_price : 153.6 		 stoploss_price : 145.92 		 profit : 0.0
+stoploss_perc : -5% 		 profit_perc : 0.0%
+target : 199.68 		 target_perc : 30%
+
+
+secondwindow_enable = False from getStrikePrice
+thirdwindow_enable = True from getStrikePrice
+acquired lock in exit
+Removed script_name
+resetting single_trade_flag
+single trade flag file is reset
+released lock in exit
+Third window is destroyed
+Starting second window from __main__
+Second window is opened
+script name []
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+Inside return 0 condition
+In mainTask, idle_state :1
+In getStickPrice, idle_state 1 :1
+In getStickPrice, idle_state 2 :1
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1517
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+getStrickPrice() called
+script name []
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1518
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1519
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1520
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+FiveMinTf candle time:2024-03-07 15:20:00+05:30
+curr_date : 2024-03-09 and FiveMinTf_candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1521
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+FiveMinTf candle time:2024-03-07 15:20:00+05:30
+curr_date : 2024-03-09 and FiveMinTf_candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+FiveMinTf candle time:2024-03-07 15:20:00+05:30
+curr_date : 2024-03-09 and FiveMinTf_candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1522
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+FiveMinTf candle time:2024-03-07 15:20:00+05:30
+curr_date : 2024-03-09 and FiveMinTf_candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+FiveMinTf candle time:2024-03-07 15:20:00+05:30
+curr_date : 2024-03-09 and FiveMinTf_candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1523
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+FiveMinTf candle time:2024-03-07 15:20:00+05:30
+curr_date : 2024-03-09 and FiveMinTf_candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+FiveMinTf candle time:2024-03-07 15:20:00+05:30
+curr_date : 2024-03-09 and FiveMinTf_candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+large_tf_current candle time:2024-03-07 14:45:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+Inside mainTask
+single trade flag 0
+In mainTask, idle_state :0
+In hist_data
+get_index_flag is set to False
+currTime : 1524
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+FiveMinTf candle time:2024-03-07 15:20:00+05:30
+curr_date : 2024-03-09 and FiveMinTf_candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same
+current candle time:2024-03-07 15:28:00+05:30
+curr_date : 2024-03-09 and candle_date : 2024-03-07 are not same

@@ -1,0 +1,15 @@
+{'ReportFile': 'nf_reports_ce_march.csv', 
+'OptExpiry': 'NIFTY24314', 
+'Iterations' : 10,
+
+'EntryStartTime': '0926', 
+'EntryEndTime': '1457', 
+'ExitTime': '1520',
+
+'SupDepth':'2',
+'ResDepth':'12',
+
+
+'PMHigh': 22297.50,
+'PMLow':  21530.20,
+'PMClose': 21982.80}
